@@ -1,0 +1,3 @@
+6.1 
+- when user choose "cancel", it will show that user selected "no".
+-
